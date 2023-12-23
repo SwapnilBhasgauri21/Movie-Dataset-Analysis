@@ -17,14 +17,16 @@ The code is organized into sections, each focusing on a specific aspect of the d
 
 ## 3. Data Visualization
 •	Scatter Plot: A scatter plot is generated to visualize the relationship between the budget and gross earnings of movies.  
+ ![image](https://github.com/SwapnilBhasgauri21/Movie-Dataset-Analysis/assets/114540268/8a31cef4-b296-4010-842d-632725bf6b66)
  
-•	Correlation Matrix Heatmap: A heatmap displays the correlation matrix of numeric features in the DataFrame.
- 
+ ![image](https://github.com/SwapnilBhasgauri21/Movie-Dataset-Analysis/assets/114540268/eb07ba4f-edf3-4195-8fba-f4979bd5920a)
 
+•	Correlation Matrix Heatmap: A heatmap displays the correlation matrix of numeric features in the DataFrame.  
+ ![image](https://github.com/SwapnilBhasgauri21/Movie-Dataset-Analysis/assets/114540268/a2faa54b-90f3-4385-bade-1b90756e4516)  
+•	Factorize and Correlation for Categorical Data: Categorical data is factorized, and a correlation matrix is calculated for these values.  
+•	Exploring Strong Correlations: Pairs with strong correlations (greater than 0.5) are identified.  
+ ![image](https://github.com/SwapnilBhasgauri21/Movie-Dataset-Analysis/assets/114540268/8bd86c18-442f-411e-bd1d-660125fb78df)  
 
-•	Factorize and Correlation for Categorical Data: Categorical data is factorized, and a correlation matrix is calculated for these values.
-•	Exploring Strong Correlations: Pairs with strong correlations (greater than 0.5) are identified.
- 
 
 
 # 4. Top Companies by Gross Revenue
