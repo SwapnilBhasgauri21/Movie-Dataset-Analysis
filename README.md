@@ -17,7 +17,7 @@ The code is organized into sections, each focusing on a specific aspect of the d
 
 ## 3. Data Visualization
 •	Scatter Plot: A scatter plot is generated to visualize the relationship between the budget and gross earnings of movies.  
-
+ 
 •	Correlation Matrix Heatmap: A heatmap displays the correlation matrix of numeric features in the DataFrame.
  
 
@@ -27,7 +27,7 @@ The code is organized into sections, each focusing on a specific aspect of the d
  
 
 
-4. Top Companies by Gross Revenue
+# 4. Top Companies by Gross Revenue
 •	Top Companies by Gross Revenue: The top 15 movie production companies are listed based on their total gross revenue.
 •	Grouping by Company and Year: The gross revenue of companies is explored, grouped by both company and year.
 •	Grouping by Company and Year (Top Years): The top years for movie companies based on gross revenue are displayed.
